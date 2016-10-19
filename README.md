@@ -9,7 +9,7 @@
 
 ###下面的gif图是我项目的演示，代码需要在该文件夹根目录起服务，端口号为81
 
-![](https://github.com/dushao103500/WeChat-hecha-project/tree/master/wechat-hecha-project.gif)
+![](https://github.com/dushao103500/WeChat-hecha-project/tree/master/images/wechat-hecha-project.gif)
 
 ###项目主要构建
 
